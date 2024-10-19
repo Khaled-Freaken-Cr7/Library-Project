@@ -1,0 +1,7 @@
+Book 1
+Title: Harry Potter And The Goblet Of Fire
+Author: JK Rolling
+ID: 30623
+Is Borrowed: No
+--------------------------
+
